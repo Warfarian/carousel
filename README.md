@@ -1,3 +1,3 @@
 # carousel
 
-Drop downs and Image carousels!
+Drop down practice, might try to implement with the image carousel later!
